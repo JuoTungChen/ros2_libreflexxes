@@ -1,4 +1,4 @@
-# ros_reflexxes
+# ros2_libreflexxes
 
 ### Package *libreflexxestype2*
 
